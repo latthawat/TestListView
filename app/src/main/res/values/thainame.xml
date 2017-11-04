@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cat">แมว</string>
+    <string name="dog">หมา</string>
+    <string name="pig">หมู</string>
+    <string name="dolphin">โลมา</string>
+    <string name="koala">โคอาลา</string>
+    <string name="rabbit">กระต่าย</string>
+    <string name="tiger">เสือ</string>
+    <string name="owl">นกฮูก</string>
+    <string name="penguin">เพนกวิน</string>
+    <string name="lion">สิงโต</string>
+</resources>
